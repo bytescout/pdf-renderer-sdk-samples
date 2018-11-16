@@ -2,6 +2,7 @@
 
 \ASP.NET
 \C#
+\C# - .NET Core 2.0
 \Delphi
 \VB.NET
 \VBScript and VB6
@@ -21,6 +22,9 @@
 \C#\Rendering In Background Thread
 \C#\Silent Printing
 \C#\Text-Vector-Image Layers
+\C# - .NET Core 2.0\PDF to 1-bit BMP
+\C# - .NET Core 2.0\PDF To JPEG
+\C# - .NET Core 2.0\PDF to Multi-page TIFF
 \Delphi\PDF To JPEG
 \VB.NET\Make Thumbnail
 \VB.NET\PDF to 1-bit BMP
