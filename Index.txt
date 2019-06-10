@@ -16,6 +16,7 @@
 \C#\Convert PDF To Multipage TIFF
 \C#\Convert PDF To PNG
 \C#\Make Thumbnail from PDF
+\C#\PDF to Image With Custom Size
 \C#\Print PDF
 \C#\Render Text-Vector-Image Layers in PDF
 \C#\Rendering PDF to image In Background Thread
@@ -31,6 +32,7 @@
 \VB.NET\Convert PDF To PNG
 \VB.NET\Make Thumbnail Image From PDF
 \VB.NET\PDF To Image Rendering In Background Thread
+\VB.NET\PDF to Image With Custom Size
 \VB.NET\Print PDF
 \VB.NET\Show Or Hide Text Or Vector Or Image Layers In PDF
 \VB.NET\Silent PDF Document Printing
@@ -38,6 +40,7 @@
 \VBScript and VB6\Convert PDF To BMP
 \VBScript and VB6\Convert PDF To EMF
 \VBScript and VB6\Convert PDF To High Quality PNG
+\VBScript and VB6\Convert PDF To Image
 \VBScript and VB6\Convert PDF To JPEG
 \VBScript and VB6\Convert PDF To Multipage TIFF
 \VBScript and VB6\Convert PDF To PNG
