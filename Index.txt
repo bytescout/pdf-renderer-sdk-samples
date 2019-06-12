@@ -16,6 +16,8 @@
 \C#\Convert PDF To Multipage TIFF
 \C#\Convert PDF To PNG
 \C#\Make Thumbnail from PDF
+\C#\Override Resolution in Multipage TIFF
+\C#\Override Resolution in Rendered Image
 \C#\PDF to Image With Custom Size
 \C#\Print PDF
 \C#\Render Text-Vector-Image Layers in PDF
@@ -31,6 +33,8 @@
 \VB.NET\Convert PDF To Multipage TIFF
 \VB.NET\Convert PDF To PNG
 \VB.NET\Make Thumbnail Image From PDF
+\VB.NET\Override Resolution in Multipage TIFF
+\VB.NET\Override Resolution in Rendered Image
 \VB.NET\PDF To Image Rendering In Background Thread
 \VB.NET\PDF to Image With Custom Size
 \VB.NET\Print PDF
