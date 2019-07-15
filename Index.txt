@@ -20,6 +20,7 @@
 \C#\Override Resolution in Rendered Image
 \C#\PDF to Image With Custom Size
 \C#\Print PDF
+\C#\Render Part of PDF Page
 \C#\Render Text-Vector-Image Layers in PDF
 \C#\Rendering PDF to image In Background Thread
 \C#\Silent PDF Printing
@@ -38,6 +39,7 @@
 \VB.NET\PDF To Image Rendering In Background Thread
 \VB.NET\PDF to Image With Custom Size
 \VB.NET\Print PDF
+\VB.NET\Render Part of PDF Page
 \VB.NET\Show Or Hide Text Or Vector Or Image Layers In PDF
 \VB.NET\Silent PDF Document Printing
 \VBScript and VB6\Convert PDF To 1-bit BMP
