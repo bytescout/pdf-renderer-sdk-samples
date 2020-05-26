@@ -15,6 +15,7 @@
 \C#\Convert PDF To Memory Stream Image
 \C#\Convert PDF To Multipage TIFF
 \C#\Convert PDF To PNG
+\C#\Display License Info
 \C#\Download and Process file
 \C#\Make Thumbnail from PDF
 \C#\Override Resolution in Multipage TIFF
@@ -34,6 +35,7 @@
 \VB.NET\Convert PDF To JPEG
 \VB.NET\Convert PDF To Multipage TIFF
 \VB.NET\Convert PDF To PNG
+\VB.NET\Display License Info
 \VB.NET\Download and Process file
 \VB.NET\Make Thumbnail Image From PDF
 \VB.NET\Override Resolution in Multipage TIFF
@@ -52,6 +54,7 @@
 \VBScript and VB6\Convert PDF To JPEG
 \VBScript and VB6\Convert PDF To Multipage TIFF
 \VBScript and VB6\Convert PDF To PNG
+\VBScript and VB6\Display License Info
 \VBScript and VB6\Hide Text or Vector or Image Layer In PDF
 \VBScript and VB6\Override Resolution in Multipage TIFF
 \VBScript and VB6\Override Resolution in Rendered Image
