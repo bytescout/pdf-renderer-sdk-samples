@@ -27,6 +27,12 @@
 \C#\Rendering PDF to image In Background Thread
 \C#\Silent PDF Printing
 \Delphi\Convert PDF To JPEG
+\Delphi\Display License Info
+\Delphi\Download and Process file
+\Delphi\Make Thumbnail from PDF
+\Delphi\PDF to Image With Custom Size
+\Delphi\Render Text-Vector-Image Layers in PDF
+\Delphi\Silent PDF Printing
 \VB.NET\Convert PDF To 1-bit BMP
 \VB.NET\Convert PDF To BMP
 \VB.NET\Convert PDF To BMP (using Streams)
